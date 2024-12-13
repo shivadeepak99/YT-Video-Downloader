@@ -5,6 +5,8 @@ This project, **YouTube Video Downloader**, was created by **Shivadeepak**. It a
 
 
 # website hosted remotely at https://ytvideodownloader-y3ra12un.b4a.run/
+## Preview
+![Preview of the application](images/preview.png)
 ## issue at remote docker space
 no available space at remote docker container so the website is  not working for medium to large size videos
 i.e if you are seeing error it means the space was not sufficient to store and send the file  so clone this to your localhost 
