@@ -18,7 +18,7 @@ i.e if you are seeing error it means the space was not sufficient to store and s
 
 ## Project Details
 - **Creator**: Shivadeepak
-- **GitHub Repository**: [YTVideoDownloader](https://github.com/shivadeepak99/YTVideoDownloader)
+- **GitHub Repository**: [ytvideodownloader2](https://github.com/shivadeepak99/ytvideodownloader2)
 # using dockerfile??
 ## Use the official Node.js image
 FROM node:18 AS node_base
